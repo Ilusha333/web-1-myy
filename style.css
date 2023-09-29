@@ -10,15 +10,59 @@ color: aquamarine;
 
 .main{
 background-color: rgb(0, 255, 234);
-color:rgb(137,50,218)
+color:crimson
 }
 
 .footer{
 background-color: rgb(0, 255, 255);
-color:rgb(255, 0, 0)
+color:rgb(255, 0, 0);
 }
 .block-text {
     font-size: 50px;
 font-weight: 800;
 text-decoration:underline
 }
+[class^="he" ] {
+background-color:aqua;
+}
+[type]
+
+.header:hover {
+background-color:rgb(240, 117, 209);
+    color:crimson;
+}
+
+.header_link:link {
+    color:crimson;
+}
+
+.header_link:visited {
+    color:crimson;
+}
+
+.header_link:active {
+color:chocolate;
+}
+
+.mine :first-child {
+    color:gold:
+}
+
+.mine-list li:nth-child(2) {
+    color:pink;
+}
+ 
+.block-text {
+font-size:24px;
+font-weight:800;
+text-align:center;
+word-spacing:2px;
+line-height:1.6;
+text-transform:uppercase;
+text-decoration:underline;
+
+
+}
+
+
+
